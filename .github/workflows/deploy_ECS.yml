@@ -12,7 +12,7 @@ env:
   ACCOUNT_ID: 822414985516
   ECR_REPOSITORY: taller-deploy-aws-2026-repository-aozq
   ECS_CLUSTER: taller-deploy-aws-2026-cluster-aozq
-  ECS_SERVICE: taller-deploy-aws-2026-service-aozq
+  ECS_SERVICE: taller-deploy-aws-2026-task-aozq-service-nkt4kqmw
   TASK_DEFINITION: taller-deploy-aws-2026-task-aozq
 
 jobs:
