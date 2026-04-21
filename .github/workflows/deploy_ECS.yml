@@ -10,10 +10,10 @@ permissions:
 env:
   AWS_REGION: eu-west-1
   ACCOUNT_ID: 822414985516
-  ECR_REPOSITORY: taller-deploy-aws-2026-repository-rnez
-  ECS_CLUSTER: taller-deploy-aws-2026-cluster-rnez
-  ECS_SERVICE: taller-deploy-aws-2026-service-rnez
-  TASK_DEFINITION: taller-deploy-aws-2026-task-rnez
+  ECR_REPOSITORY: taller-deploy-aws-2026-repository-aozq
+  ECS_CLUSTER: taller-deploy-aws-2026-cluster-aozq
+  ECS_SERVICE: taller-deploy-aws-2026-service-aozq
+  TASK_DEFINITION: taller-deploy-aws-2026-task-aozq
 
 jobs:
   deploy:
